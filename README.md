@@ -1,7 +1,7 @@
 # Ling471 Spring 2021
 A repository for the students to import/copy privately, containing function specs for Assignment 3.
 
-Please do not fork this repository.
+Please do not fork this repository, or if you do fork, please do not push any solutions to your public copy.
 
 By copying/importing/cloning this repository, you agree to not push any solutions to the assignment publicly.
 
